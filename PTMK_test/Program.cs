@@ -14,7 +14,7 @@ namespace PTMK_test
                 return;
             }
 
-            string connectionString = "Server=localhost;Database=test;Uid=root;Pwd=Oledjo001;";
+            string connectionString = "Server=localhost;Database=test;Uid=root;Pwd=password;";
 
             switch (args[0])
             {
